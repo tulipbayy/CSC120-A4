@@ -1,9 +1,4 @@
-
-// Define FuelType enum
-enum FuelType {
-    STEAM, INTERNAL_COMBUSTION, ELECTRIC, OTHER;
-}
- /**
+/**
  * Represents an engine that powers a train.
  */
 public class Engine {
